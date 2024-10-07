@@ -1,0 +1,7 @@
+#primeiro progrma em Python
+"""
+comentario de
+duas linhas
+"""
+
+print("hello word")
